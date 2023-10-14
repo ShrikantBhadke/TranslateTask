@@ -1,0 +1,9 @@
+{
+    "dir": "rtl",
+    "UserInfo": {
+        "FirstName": "الاسم الأول",
+        "LastName": "اسم العائلة",
+        "EmailAddress": "عنوان البريد الإلكتروني",
+        "Address": "عنوان"
+    }
+}
